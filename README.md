@@ -88,10 +88,6 @@ npm run dev -- --host 127.0.0.1
 
 Never place a Supabase service-role key in a `VITE_*` variable.
 
-## AI-assisted development
+## My contribution
 
-I built Sayyad with heavy AI assistance using **Antigravity, Claude Opus 4.6 and GPT Sol** as coding collaborators.
-
-I directed the product idea, requirements, user flows and iterations, tested the application, configured the backend and debugged the project while the AI tools generated and modified substantial portions of the code.
-
-I include this explicitly because I want the repository to represent what I actually did rather than imply that the entire codebase was written manually.
+I developed the product concept and requirements, designed the customer/provider flows, configured and tested the Supabase-backed version, and debugged and iterated on the prototype. Coding tools helped implement substantial parts of the application; the test results above describe what I actually verified.
