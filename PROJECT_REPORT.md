@@ -82,8 +82,6 @@ During the portfolio export:
 
 Project-specific `.env` files and Supabase browser configuration were excluded from the portfolio export. No embedded service-role/admin credential was identified in the cleaned source.
 
-## AI-assisted development
+## Development approach
 
-I built Sayyad with heavy AI assistance using Antigravity, Claude Opus 4.6 and GPT Sol. I directed the product idea, requirements, user flows and iterations, configured/tested the backend and debugged the system while AI tools generated and modified substantial portions of the implementation.
-
-I include this explicitly so the project reflects what I actually did rather than implying the whole codebase was written manually.
+I defined the product requirements and user flows, configured and tested the backend, and investigated errors across revisions. Coding assistants contributed substantial implementation code. The report separates the features present in the prototype from the smaller set of workflows I personally tested against the backend.
